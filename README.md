@@ -10,9 +10,9 @@ Goals:
 4. Battle other cars? 
 
 Maisto R/C Rock Crawler:
-Power: 6AA battery powered
-Transmittion: PS3 Controller (USB) -> (Keyes) USB Host Shield 2.0 -> Ardunio UNO (Processor) -> DK Electrics Motor Shield V1
-Control: DK Electrics Motor Shield V1 -> Two Motor (Driving) One Motor (Turning)
+- Power: 6AA battery powered
+- Transmittion: PS3 Controller (USB) -> (Keyes) USB Host Shield 2.0 -> Ardunio UNO (Processor) -> DK Electrics Motor Shield V1
+- Control: DK Electrics Motor Shield V1 -> Two Motor (Driving) One Motor (Turning)
 
 Ardunio Pin Usage (Digital 2-13):
 - USB Host Shield 2.0 (8-13)
