@@ -14,7 +14,7 @@
 #endif
 
 USB Usb;
-//USBHub Hub1(&Usb); // Some dongles have a hub inside
+USBHub Hub1(&Usb); // Some dongles have a hub inside
 
 BTD Btd(&Usb); // You have to create the Bluetooth Dongle instance like so
 /* You can create the instance of the class in two ways */
